@@ -14,9 +14,9 @@ const geistMono = localFont({
 })
 
 export const metadata: Metadata = {
-  title: "Duitar — AI-Native Release Notes",
+  title: "Duitar — The AI Open-Source Documentation Platform",
   description:
-    "Stop writing changelogs by hand. Connect your repo, AI reads your diffs, drafts human-readable release notes. You approve, it publishes everywhere.",
+    "Generate docs from code. Write with AI co-author. Host beautifully. Keep everything current — automatically. Open source under ELv2.",
 }
 
 export default function RootLayout({
